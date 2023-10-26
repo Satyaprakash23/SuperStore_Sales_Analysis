@@ -1,5 +1,5 @@
 # SuperStore_Sales_Analysis
-Incorporated data analysis
+Analyzed the sales data ,used Power Query ,DAX function,etc. and incorporated data analysis
 techniques, specializing in time
 series analysis, to deliver valuable
 insights, accurate sales forecasting,
